@@ -1,5 +1,7 @@
 # DRV8870 Motor Controller
 
+![Board 3d view](/view3d.png)
+
 The Motor Controller, powered by Texas Instruments' DRV8870 motor drive, is a robust and efficient solution for running small to medium-sized DC motors. This compact device offers a 3.6V to 18V operating supply voltage range, ensuring compatibility with various power sources. It can efficiently drive a peak current of up to 3.6A, facilitating smooth motor operations even under demanding conditions. Equipped with advanced safety features like overcurrent, thermal, and undervoltage protection, the motor controller ensures your motor's longevity and reliable performance. Whether you're building a robot, an automatic door, or a smart home gadget, this motor controller offers easy integration and optimal performance, bringing your projects to life with precision and power.
 
 ## Features
